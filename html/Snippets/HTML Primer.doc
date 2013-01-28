@@ -1,0 +1,17 @@
+http://www.w3schools.com/html/default.asp   
+<!DOCTYPE html>                 The DOCTYPE declaration defines the document type
+
+<html>                          The text between <html> and </html> describes the web page
+
+<body>                          The text between <body> and </body> is the visible page content
+
+<h1>My First Heading</h1>       The text between <h1> and </h1> is displayed as a heading
+
+<p>My first paragraph.</p>      The text between <p> and </p> is displayed as a paragraph
+
+</body>
+
+</html>
+
+
+

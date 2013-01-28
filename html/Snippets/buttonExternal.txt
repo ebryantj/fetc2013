@@ -1,0 +1,1 @@
+<a href="http://www.fetc.org/" rel="external" data-role="button" data-icon="star" data-iconpos="left>Star button</a>

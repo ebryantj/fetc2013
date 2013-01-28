@@ -1,0 +1,1 @@
+<a href="#idname" data-role="button" data-icon="star">Button Text Here</a>
